@@ -1,9 +1,7 @@
-# Micromagnons-FerrimagneticChains
+This repository contains the codes for: [arXiv:2504.18724](https://doi.org/10.48550/arXiv.2504.18724)
 
-This repository contains the codes for:
+### Micromagnons and long-range entanglement in ferrimagnetic ground states
 
-## Micromagnons and long-range entanglement in ferrimagnetic ground states
+Marcin Wieśniak, Ankit Kumar, and I.H.N. Ngueya
 
-Marcin Wieśniak, Ankit Kumar, Idriss Hank Nkouatchoua Ngueya
-
-\href{https://doi.org/10.48550/arXiv.2504.18724}{arXiv:2504.18724}
+accepted for publication in *Physical Review B*
