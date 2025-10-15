@@ -4,4 +4,6 @@ This repository contains the codes for: [arXiv:2504.18724](https://doi.org/10.48
 
 Marcin Wieśniak, Ankit Kumar, and I.H.N. Ngueya
 
-accepted for publication in *Physical Review B*
+Phys. Rev. B 112, 134425 (2025)
+
+https://doi.org/10.1103/wwr6-l3dq
